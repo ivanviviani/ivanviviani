@@ -1,5 +1,7 @@
-### Hi there 👋
+### :man_technologist: About me
 
+- 🔭 I am a Software Engineer from Italy, currently working as an Adobe Experience Manager (AEM) certified Developer and Consultant at Aktive Reply [![Linkedin Badge](https://img.shields.io/badge/-Aktive%20Reply-blue?style=flat&logo=Linkedin&logoColor=white)](https://it.linkedin.com/company/aktive-reply), where I am contributing to building the frontend UI and backend logic of custom AEM components and page templates, as well as providing technical support to AEM content editors
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ivan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivanviviani/)
 <!--
 **ivanviviani/ivanviviani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
